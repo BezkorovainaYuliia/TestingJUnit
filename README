@@ -1,0 +1,10 @@
+Programmieren: Unit-Test
+Erstelle ein neues Java-Projekt und implementiere die folgenden Methoden.
+Schreibe anschließend Tests für jede Methode:
+
+Test 1: Eine Methode, die die Summe von zwei ganzen Zahlen berechnet.
+Test 2: Eine Methode, die überprüft, ob eine gegebene Zahl gerade ist.
+Test 3: Eine Methode, die das Produkt von zwei ganzen Zahlen berechnet.
+Test 4: Eine Methode, die einen gegebenen String in Großbuchstaben umwandelt.
+Test 5: Eine Methode, die überprüft, ob eine gegebene Zahl positiv ist.
+
